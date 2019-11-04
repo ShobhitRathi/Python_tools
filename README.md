@@ -9,7 +9,9 @@
 6) **Quadratic Equation Code** - Finds the value of x for quad equation
 7) **Cel_to_fahren** - Converts Celcius to fahrenheit
 8) **Deci_to_bin_oct_hex** - Converts decimal value to binary,octal,hex value
-9) **Line Statistics**- provides string stats
+9) **Line Statistics** - provides string stats
+10) **stirngs** - 
+11) **Base convert** - converts base 10 to base 8
 
 ## Contribution
 #### Feel free to add any useful program inside it :smiley::blue_heart::snake:
