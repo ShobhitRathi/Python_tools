@@ -1,5 +1,6 @@
 # Python_tools 
  **Useful programs created on Python**
+ > _"We don't have better algorithms, We just have more data"_ ~ Peter Norwig
 # Programs
 1) **Prime numbers** - Checks if the input number is prime or not 
 2) **Area of Rect** - Finds area of rectangle (Basic math)
