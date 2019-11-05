@@ -13,6 +13,7 @@
 9) **Line Statistics** - provides string stats
 10) **stirngs** - check which out of 2 input strings is creater (_both strings should be of same lenth_)
 11) **Base convert** - converts base 10 to base 8
+12) **cAPS lOCK** - fixes accidentental caps lock ON sentences
 
 ## Contribution
 #### Feel free to add any useful program inside it :smiley::blue_heart::snake:
