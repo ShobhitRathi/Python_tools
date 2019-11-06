@@ -1,5 +1,8 @@
 # Python_tools 
- **Useful programs created on Python**
+![python](https://img.shields.io/badge/python-programs-blue)
+![version](https://img.shields.io/badge/version-3.7.2-blue)
+
+**Useful programs created on Python**
  > _"We don't have better algorithms, We just have more data"_ ~ Peter Norwig
 # Programs
 1) **Prime numbers** - Checks if the input number is prime or not 
