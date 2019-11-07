@@ -23,4 +23,8 @@
 13) **minimum steps** - calculates minimum number of steps needed to be taken to reach from point A(0) to point B(input)
 
 ## Contribution
-#### Feel free to add any useful program inside it :smiley::blue_heart::snake:
+1) [Fork](https://github.com/ShobhitRathi/Python_tools/fork) or [Download](https://github.com/ShobhitRathi/Python_tools/archive/master.zip) this repository.
+2) 👌 Create a pull request!
+3) Feel free to add any **useful** program inside it :smiley::blue_heart::snake:
+
+### Thanks for checking out!
