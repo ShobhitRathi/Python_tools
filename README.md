@@ -21,9 +21,9 @@
 11) **Base convert** - converts base 10 to base 8
 12) **cAPS lOCK** - fixes accidentental caps lock ON sentences
 13) **minimum steps** - calculates minimum number of steps needed to be taken to reach from point A(0) to point B(input)
-13) **Bit++** - a fun little program.
-14) **factorial calculator** - calculates factorial of a number
-15) **Insertion sort** - for sorting an array
+14) **Bit++** - a fun little program.
+15) **factorial calculator** - calculates factorial of a number
+16) **Insertion sort** - for sorting an array
 
 ## Contribution
 1) [Fork](https://github.com/ShobhitRathi/Python_tools/fork) or [Download](https://github.com/ShobhitRathi/Python_tools/archive/master.zip) this repository.
